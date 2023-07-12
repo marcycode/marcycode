@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="200"/>
   <h1> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <br>
+  My Name is Nodshley & I am a 2nd year Software Engineering Student at the University of Ottawa.<br>
+  My Hobbies include listening to music🎵, coding, 💻 & playing basketball🏀. <br>
+  Check out my Linkedin Below! ⬇️
+  <br>
+  <br>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nodshleymarcelin/">
