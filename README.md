@@ -4,13 +4,18 @@
   <br>
   My Name is Nodshley & I am a 2nd year Software Engineering Student at the University of Ottawa.<br>
   My Hobbies include listening to music🎵, coding, 💻 & playing basketball🏀. <br>
-  Check out my Linkedin Below! ⬇️
+  Check out my Linkedin Profile & Portfolio Website Below! ⬇️
   <br>
   <br>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nodshleymarcelin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br>
+  <a href="https://nodshleymarcelin.netlify.app/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat-square&logo=netlify&labelColor=brightgreen">
+
   </a>
  
 </div>
