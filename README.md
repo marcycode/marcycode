@@ -10,7 +10,7 @@
 </div>
 <div id="stats" align="left">
   <h1>My Stats</h1>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcycode&layout=compact&theme=vision-friendly-dark)](https://github.com/marcycode/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcycode&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <div align="left">
