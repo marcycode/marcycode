@@ -9,6 +9,10 @@
  
 </div>
 
+<div id="stats" align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcycode&theme=dark)](https://git.io/streak-stats)
+</div>
+
 <div align="left">
 <h1>Languages & Tools </h1>
 <div>
