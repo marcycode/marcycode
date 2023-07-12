@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
+  <h1> Hi There!</h1>
+</div>
+
+
+
 
 <!--
 **marcycode/marcycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
