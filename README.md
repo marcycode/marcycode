@@ -10,6 +10,7 @@
 </div>
 
 <div>
+<div align="center">
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcycode&theme=dark&card_width=400)](https://git.io/streak-stats)
@@ -17,6 +18,9 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcycode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  
+</div>
+
 
 <h1>Languages & Tools </h1>
 <div>
