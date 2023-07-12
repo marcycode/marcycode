@@ -8,10 +8,12 @@
   </a>
  
 </div>
----
+
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcycode&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcycode&theme=dark&card_width=800)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcycode)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="left">
 <h1>Languages & Tools </h1>
