@@ -1,12 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="200"/>
-  <h1> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <br>
-  My Name is Nodshley & I am a 3rd year Software Engineering Student at the University of Ottawa 🏫<br>
-  My Hobbies include listening to music🎵, coding, 💻 & playing basketball🏀 <br>
-  Check out my Linkedin Profile & Portfolio Website Below! ⬇️
-  <br>
-  <br>
+</div>
+<h1 align="center"><b>Hi , I'm Nodshley Marcelin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=3rd+year..&hearts;++;University+Student+Software+Developer,;Software+Engineering+Student,;Lifelong+Learner/Freelance+Developer,;Love+to+learn..<3"></a>
+</p>
+  
+ 
+  
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nodshleymarcelin/">
