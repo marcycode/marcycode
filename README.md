@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi , I'm Nodshley Marcelin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=3rd+year..&hearts;++;University+Student+Software+Developer,;Software+Engineering+Student,;Lifelong+Learner/Freelance+Developer,;Love+to+learn..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=4th+year..&hearts;++;University+of+Ottawa;Software+Engineering+Student;Lifelong+Learner;I+want+to+Innovate.<3"></a>
 </p>
   
  
