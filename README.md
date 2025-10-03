@@ -1,6 +1,6 @@
 <h1 align="left">About me💫 </h1>
 
-- 🏫 Senior Software Engineer Student at UOttawa
+- 🏫 Software Engineering Student at University of Ottawa 🍁
 - 🔭 I’m currently working on [R.T.A.C.C](https://github.com/marcycode/RTACC)
 
 - 🌱 I’m currently learning **Pytorch,MERN,Swift, & C++**
