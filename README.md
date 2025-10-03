@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Pytorch,MERN,Swift, & C++**
 
-- 💬 Ask me about **python,java,react**
-
 - 📫 How to reach me **nmarcelin123@gmail.com**
 - Check out my portfolio site [here](https://www.nodshley.com)
 
