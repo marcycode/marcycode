@@ -8,7 +8,7 @@
 - 📫 How to reach me **nmarcelin123@gmail.com**
 - Check out my portfolio site [here](https://www.nodshley.com)
 - Check out my businesses below:
-  -  ⚡ [Prizma](https://prizzma.vercel.app)
+  -  ⚡ [Prizzma](https://prizzma.vercel.app)
   -  💻[Levandesites](https://levandesites.vercel.app)
 
 
