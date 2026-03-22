@@ -3,7 +3,7 @@
 - 🏫 Software Engineering Student at University of Ottawa 🍁
 - 🔭 I’m currently working on [R.T.A.C.C](https://github.com/marcycode/RTACC)
 
-- 🌱 I’m currently learning **Pytorch,MERN,Swift, & C++**
+- 🌱 I’m currently working with **TypeScript,SQL, & Next.JS**
 
 - 📫 How to reach me **nmarcelin123@gmail.com**
 - Check out my portfolio site [here](https://www.nodshley.com)
