@@ -10,6 +10,7 @@
 - Check out my businesses below:
   -  💻[Levandesites](https://www.levandesites.com)
   -  📹[AllStreamsTools](https://allstreamstools.vercel.app)
+  -  🏀[EastBay](https://eastbay.vercel.app/login)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
