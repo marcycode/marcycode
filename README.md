@@ -1,7 +1,7 @@
 <h1 align="left">About me💫 </h1>
 
 - 🏫 Software Engineering Student at University of Ottawa 🍁
-- 🔭 I’m currently working on [R.T.A.C.C](https://github.com/marcycode/RTACC)
+- 🔭 I’m currently working on [Eastbay](http://eastbay.pro)
 
 - 🌱 I’m currently working with **TypeScript,SQL, & Next.JS**
 
