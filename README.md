@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **nmarcelin123@gmail.com**
 - Check out my portfolio site [here](https://www.nodshley.com)
-- Check out my businesses below:
+- Check out my projects below:
   -  💻[Levandesites](https://www.levandesites.com)
   -  📹[AllStreamsTools](https://allstreamstools.vercel.app)
   -  🏀[EastBay](https://eastbay.vercel.app/login)
+  -  🔐[LPGMC](https://github.com/marcycode/LPGMCP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
