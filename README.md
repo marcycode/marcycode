@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **TypeScript,SQL, & Next.JS**
 
-- 📫 How to reach me **nmarcelin123@gmail.com**
+- 📫 Reach me @ **nmarcelin123@gmail.com**
 - Check out my portfolio site [here](https://www.nodshley.com)
 - Check out my projects below:
   -  💻[Levandesites](https://www.levandesites.com)
