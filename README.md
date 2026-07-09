@@ -13,10 +13,3 @@
   -  🏀[EastBay](https://eastbay.vercel.app/login)
   -  🗺️ [Plot](https://plotmaps.vercel.app)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nodshleymarcelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nodshleymarcelin" height="30" width="40" /></a>
-</p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marcycode&theme=dark" alt="GitHub Streak" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcycode&label=Profile%20views&color=0e75b6&style=flat" alt="marcycode" /> </p>
