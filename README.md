@@ -1,15 +1,2 @@
-<h1 align="left">About me💫 </h1>
-
-- 🏫 Software Engineering Student at University of Ottawa 🍁
-- 🔭 I’m currently working on [Eastbay](http://eastbay.pro)
-
-- 🌱 I’m currently working with **TypeScript,SQL, & Next.JS**
-
-- 📫 Reach me @ **nmarcelin123@gmail.com**
-- Check out my portfolio site [here](https://www.nodshley.com)
-- Check out my projects below:
-  -  💻[Levandesites](https://www.levandesites.com)
-  -  📹[AllStreamsTools](https://allstreamstools.vercel.app)
-  -  🏀[EastBay](https://eastbay.vercel.app/login)
-  -  🗺️ [Plot](https://plotmaps.vercel.app)
-
+<img width="1180" height="610" alt="dark (2)" src="https://github.com/user-attachments/assets/69d37700-667e-4ea9-acde-5539b87e1b80" />
+                       
