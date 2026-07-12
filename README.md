@@ -1,2 +1,5 @@
-<img width="1180" height="610" alt="dark (2)" src="https://github.com/user-attachments/assets/69d37700-667e-4ea9-acde-5539b87e1b80" />
-                       
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Nodshley Marcelin" src="./dark.svg" width="100%">
+</picture>
