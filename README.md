@@ -18,7 +18,7 @@
 - Final-year Software Engineering student in Ottawa, graduating December 2026
 - Founder of **Levande Sites**, a web agency building sites for local businesses in the Ottawa/Gatineau area
 - Program Director and Lead Engineer at **TechSmart Robotics**, a bilingual youth STEM program
-- Currently deep in TypeScript, Next.js, Python, and Postgres
+- Currently deep in TypeScript, Next.js, Python, and Java
 - Reach me at **nmarcelin123@gmail.com**
 
 ---
