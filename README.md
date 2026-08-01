@@ -29,7 +29,7 @@ Most of my work is pinned below. One that isn't, since the repo is private:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**AllStreamTools**](https://allstreamtools.com) | A toolkit for streamers: overlays, alerts, and stream utilities in one place | TypeScript, Next.js |
+| [**AllStreamsTools**](https://allstreamstools.com) | A toolkit for streamers: overlays, alerts, and stream utilities in one place | TypeScript, Next.js |
 
 ---
 
