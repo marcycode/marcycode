@@ -30,6 +30,8 @@ Most of my work is pinned below. One that isn't, since the repo is private:
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**AllStreamsTools**](https://allstreamstools.com) | A toolkit for streamers: overlays, alerts, and stream utilities in one place | TypeScript, Next.js |
+| [**Chapelle Connect**](https://chapelleconnect.vercel.app) | Full bilingual platform for RCCG CDLR: a Flutter mobile app and a TypeScript web app | Flutter, TypeScript, Supabase |
+
 
 ---
 
@@ -48,7 +50,7 @@ Most of my work is pinned below. One that isn't, since the repo is private:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+ 
 </p>
 
 ---
