@@ -29,7 +29,7 @@ Most of my work is pinned below. One that isn't, since the repo is private:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**AllStreamsTools**](https://allstreamstools.com) | A toolkit for streamers: overlays, alerts, and stream utilities in one place | TypeScript, Next.js |
+| [**AllStreamTools**](https://allstreamstools.com) | A toolkit for streamers: overlays, alerts, and stream utilities in one place | TypeScript, Next.js |
 | [**Chapelle Connect**](https://chapelleconnect.vercel.app) | Full bilingual platform for RCCG CDLR: a Flutter mobile app and a TypeScript web app | Flutter, TypeScript, Supabase |
 
 
